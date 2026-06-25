@@ -69,3 +69,6 @@ The entire pipeline is orchestrated using LangChain’s RunnableParallel, ensuri
 “Was nuclear fusion discussed? If yes, what were the key points?”
 
 “Who is Demis?” (if mentioned in the transcript)
+
+
+app link - https://youtube-chat-bot-rag.streamlit.app/
